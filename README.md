@@ -20,7 +20,7 @@ In this tutorial, we work with simple models and toy data, so we don't need GPU 
            export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
      - mkvirtualenv tf_tutorial --python=python3
      - workon tf_tutorial
- - pip install tensorflow numpy tensorflow jupyter notebook
+ - pip install matplotlib numpy tensorflow jupyter notebook
  
 ### Alternative - Execute on google colab: 
 You can run your code on some google machines for free.
