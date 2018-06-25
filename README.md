@@ -13,6 +13,7 @@ In this tutorial, we work with simple models and toy data, so we don't need GPU 
  - Recommended: virtualenv with virtualenvwrapper (to create isolated environment with python packages for this tutorial).
      - sudo pip install virtualenv virtualenvwrapper
      - add the following lines to your ~/.bashrc or ~/.zshrc or ~/.bash_profile (depends what you are using)
+     
            export WORKON_HOME=$HOME/.virtualenvs
            export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
            export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
