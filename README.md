@@ -21,3 +21,9 @@ In this tutorial, we work with simple models and toy data, so we don't need GPU 
      - mkvirtualenv tf_tutorial --python=python3
      - workon tf_tutorial
  - pip install tensorflow numpy tensorflow jupyter notebook
+ 
+### Alternative - Execute on google colab: 
+You can run your code on some google machines for free.
+Go to https://colab.research.google.com
+Sign in with your google account (you need one to use colab)
+File --> open notebook --> https://github.com/richardk53/tf_tutorial_algiers.git
