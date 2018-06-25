@@ -23,7 +23,8 @@ In this tutorial, we work with simple models and toy data, so we don't need GPU 
  - pip install matplotlib numpy tensorflow jupyter notebook
  
 ### Alternative - Execute on google colab: 
-You can run your code on some google machines for free.
-Go to https://colab.research.google.com
-Sign in with your google account (you need one to use colab)
+You can run your code on some google machines for free. 
+
+Go to https://colab.research.google.com and sign in with your google account (you need one to use colab)
+
 File --> open notebook --> https://github.com/richardk53/tf_tutorial_algiers.git
