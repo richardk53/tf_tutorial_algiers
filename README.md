@@ -8,7 +8,7 @@ The tutorial is split into 4 parts.
 ### Requirements
 We only need tensorflow, numpy, matplotlib, and jupyter notebook, preferably with python3.
 In this tutorial, we work with simple models and toy data, so we don't need GPU support.
-### Install
+### Install requirements
  - Install python3 and pip
  - Recommended: virtualenv with virtualenvwrapper (to create isolated environment with python packages for this tutorial).
      - sudo pip install virtualenv virtualenvwrapper
